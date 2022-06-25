@@ -2,4 +2,9 @@
 #include "plugin.h"
 #include "/../cheats.h"
 #include "mainfest.h"
-public
+int Main(){
+  if(kDown & KEY_0){
+    printf("Launching Plugin Loader");
+    
+  }
+}
