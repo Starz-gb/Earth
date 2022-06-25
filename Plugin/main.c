@@ -2,3 +2,4 @@
 #include "plugin.h"
 #include "/../cheats.h"
 #include "mainfest.h"
+public
