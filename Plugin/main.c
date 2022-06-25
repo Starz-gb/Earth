@@ -7,6 +7,7 @@ int Main(){
     printf("Launching Plugin Loader");
     PluginLoader.progressBar();
     progressBar += 10
+    //I'll finish this sooner or later
     
   }
 }
