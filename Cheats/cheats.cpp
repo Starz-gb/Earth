@@ -1,6 +1,4 @@
-/* To use cheats
-*  Made by my friend in my discord server potatopc0110
-*/
+/* To use cheats */
 #include "cheats.h"
 public static void cheats{
   if("Plugin Loader Enabled" == true){
