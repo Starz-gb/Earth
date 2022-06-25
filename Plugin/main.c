@@ -5,6 +5,8 @@
 int Main(){
   if(kDown & KEY_0){
     printf("Launching Plugin Loader");
+    PluginLoader.progressBar();
+    progressBar += 10
     
   }
 }
